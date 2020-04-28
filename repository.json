@@ -1,5 +1,5 @@
 {
-    "name": "BestLibre addons repository",
-    "url": "https://github.com/bestlibre/hassio-addons",
-    "maintainer": "BestLibre <githubATbestlibreDOTorg>"
+    "name": "Opal's addons repository(Forked from BestLibre)",
+    "url": "https://github.com/software-opal/hassio-addons",
+    "maintainer": "Me~"
 }
